@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "577424183743",
+    "firebase_url": "https://bawang-hitam.firebaseio.com",
+    "project_id": "bawang-hitam",
+    "storage_bucket": "bawang-hitam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577424183743:android:3a0d3b2faa9fa47d84110a",
+        "android_client_info": {
+          "package_name": "com.mmdiyul.monitoringsuhu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577424183743-46ea8prc3idr3l31teuij55e014522p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUmH_7EtR2mC93BJ3ilgAlp5_DkkvzQZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577424183743-46ea8prc3idr3l31teuij55e014522p6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
